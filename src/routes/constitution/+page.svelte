@@ -238,6 +238,21 @@
    
     <p>Teams that reached the playoffs the previous season are then slotted in the order in which they were eliminated as indicated in the table below. Within each tier, the slotting is determined as above (i.e. worst records gets fewer balls and the same tiebreakers apply).</p>
    
+    <table>
+        <tr>
+            <th>Previous Year Result</th>
+            <th>Number of Balls</th>
+        </tr>
+         <tr>
+            <td>Non-playoff teams</td>
+            <td>1-6</td>
+         </tr>
+         <tr>
+            <td>Eliminated in Wild Card round</td>
+            <td>7-8</td>
+         </tr>
+    </table>
+    
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
     <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
