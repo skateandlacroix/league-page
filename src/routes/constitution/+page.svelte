@@ -246,6 +246,7 @@
             <tr><td>Eden Bowl runner-up</td><td class="right">11</td></tr>
             <tr><td>Eden Bowl champion</td><td class="right">12</td></tr>
         </table>
+    </div>
     
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rokkie drafts will consist of 3 round of drafting, with 5 minutes alotted for each pick. To make room for the incoming players, benches will be expanded by (5) spots. These spots will be removed in mid-August, at which point you will need to have cut the necessary players.</p>
