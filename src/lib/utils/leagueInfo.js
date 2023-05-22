@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "786076885619908608"; // your league ID
+export const leagueID = "966400071690416128"; // your league ID
 export const leagueName = "The Old Man Table Invitational"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
